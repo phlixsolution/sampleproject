@@ -1,5 +1,4 @@
-# this file is *not* meant to cover or endorse the use of nox or pytest or
-# testing in general,
+sdfds
 #
 #  It's meant to show the use of:
 #
